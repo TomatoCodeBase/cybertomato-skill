@@ -1,1 +1,8 @@
-PGRpdiBhbGlnbj0iY2VudGVyIj4KCiMg8J+NhSDotZvljZrnlarojIQKIyMjIEN5YmVyIFRvbWF0byDCtyBBSSBOYXRpdmUgQ3JlYXRvcgoKKirnlKggQUkg6YeN5aGR5YaF5a655Yib5L2c44CB6LSi5Yqh566h55CG5LiO5Liq5Lq65pWI546H44CCKioKCjwvZGl2Pgo=
+<div align="center">
+
+# 🍅 赛博番茄
+### Cyber Tomato · AI Native Creator
+
+**用 AI 重塑内容创作、财务管理与个人效率。**
+
+</div>
